@@ -1,0 +1,21 @@
+{
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "description": "Replace new tab page with the Google Inbox background",
+  "icons": {
+    "128": "icon-128.png",
+    "16": "icon-16.png",
+    "48": "icon-48.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["images/*.jpg"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "manifest_version": 3,
+  "name": "Sunshine",
+  "offline_enabled": true,
+  "version": "0.1"
+}
