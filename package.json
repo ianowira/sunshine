@@ -1,6 +1,6 @@
 {
   "name": "sunshine-tab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replace new tab page with the Google Inbox background",
   "main": "src/index.html",
   "scripts": {
