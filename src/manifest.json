@@ -15,7 +15,7 @@
     }
   ],
   "manifest_version": 3,
-  "name": "Sunshine",
+  "name": "Sunshine Tab",
   "offline_enabled": true,
-  "version": "0.1"
+  "version": "0.1.1"
 }
