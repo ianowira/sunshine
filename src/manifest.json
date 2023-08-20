@@ -2,7 +2,7 @@
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
-  "description": "Replace new tab page with the Google Inbox background",
+  "description": "This extension replaces the default chrome tab with discontinued Inbox by Google sunshine background.",
   "icons": {
     "128": "icon-128.png",
     "16": "icon-16.png",

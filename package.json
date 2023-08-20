@@ -1,0 +1,28 @@
+{
+  "name": "sunshine-tab",
+  "version": "1.0.0",
+  "description": "Replace new tab page with the Google Inbox background",
+  "main": "src/index.html",
+  "scripts": {
+    "build": "rm -rf sunshine-tab.zip && zip -r sunshine-tab.zip src ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianowira/sunshine.git"
+  },
+  "keywords": [
+    "google",
+    "inbox",
+    "by",
+    "google",
+    "chrome",
+    "extension"
+  ],
+  "author": "Ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianowira/sunshine/issues"
+  },
+  "homepage": "https://github.com/ianowira/sunshine#readme"
+}
