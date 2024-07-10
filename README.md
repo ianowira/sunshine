@@ -1,5 +1,8 @@
 # Sunshine Tab
 
-Sunshine Tab is a chorom extension that replaces the default chrome tab with the the discontinued Inbox by Google background whenever your inbox was empty.
+Sunshine Tab is a Chromium extension that replaces the default Chrome tab with the discontinued Inbox by Google background whenever your inbox is empty.
 
-This extension is meant to bright up your day just a a little.
+This extension is meant to brighten up your day just a little.
+
+[inbox.owira.co.za](https://inbox.owira.co.za)
+
